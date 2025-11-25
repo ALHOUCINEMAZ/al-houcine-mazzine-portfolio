@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/35f18fd6-de81-474b-aa95-465ef1add0a5
+![localhost_3000-Al Houcine Mazzine  Portfolio-cvscreenshot](https://github.com/user-attachments/assets/20e4f489-37d1-4d3c-912c-dcf620f24e23)
 
 🌟 al-houcine-mazzine-portfolio
 
