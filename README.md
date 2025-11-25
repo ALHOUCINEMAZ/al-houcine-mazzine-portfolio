@@ -1,19 +1,9 @@
+![localhost_3000-Al Houcine Mazzine  Portfolio-cvscreenshot](https://github.com/user-attachments/assets/eee2d612-beab-4ae8-8076-e10ed9e8d403)
+
 🌟 al-houcine-mazzine-portfolio
 
 A modern, responsive developer portfolio built using React, TypeScript, Vite, and TailwindCSS.
 Showcasing your skills, projects, and personality in a clean and professional way.
-
-🖼️ Screenshots
-🎨 Hero Section
-![localhost_3000-Al Houcine Mazzine  Portfolio-cvscreenshot](https://github.com/user-attachments/assets/eee2d612-beab-4ae8-8076-e10ed9e8d403)
-
-
-
-🧑‍💻 VS Code Project View
-
-Image: /mnt/data/34ddaa44-19ec-402f-b642-9275134e0a92.png
-
-(Upload these images to your GitHub repo and replace the paths with their GitHub URLs.)
 
 🚀 Features
 
