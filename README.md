@@ -49,7 +49,7 @@ Showcasing your skills, projects, and personality in a clean and professional wa
 
 📬 Contact
 
-• 🐙 GitHub: https://github.com/YOUR_USERNAME
+• 🐙 GitHub: https://[github.com/YOUR_USERNAME](https://github.com/ALHOUCINEMAZ)
 
 • 💼 LinkedIn: your-link
 • ✉️ Email: your-email
