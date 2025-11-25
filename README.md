@@ -1,4 +1,4 @@
-![localhost_3000-Al Houcine Mazzine  Portfolio-cvscreenshot](https://github.com/user-attachments/assets/eee2d612-beab-4ae8-8076-e10ed9e8d403)
+(https://github.com/user-attachments/assets/eee2d612-beab-4ae8-8076-e10ed9e8d403)
 
 🌟 al-houcine-mazzine-portfolio
 
@@ -49,7 +49,7 @@ Showcasing your skills, projects, and personality in a clean and professional wa
 
 📬 Contact
 
-• 🐙 GitHub: https://[github.com/YOUR_USERNAME](https://github.com/ALHOUCINEMAZ)
+• 🐙 GitHub: https://https://github.com/ALHOUCINEMAZ
 
 • 💼 LinkedIn: your-link
 • ✉️ Email: your-email
